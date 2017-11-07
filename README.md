@@ -1,0 +1,2 @@
+# CollectionViewLayout-customAnimatingSimple
+CollectionViewLayout&amp;customAnimatingSimple
